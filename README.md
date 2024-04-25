@@ -50,4 +50,6 @@ A partir de aquí pueden surgir otras carpetas importantes que puede necesitar e
 
 Dependiendo de lo que necesites puedes ir agregándolas.
 
-## Espero esto te ayude en tus futuros proyectos
+Te dejo este enlace a mi post [Clean Architecture en Node y Express](https://www.linkedin.com/pulse/clean-architecture-en-node-y-express-odannys-de-la-cruz/) donde puedes ver un ejemplo completo con las demás carpetas.
+
+### **Espero esto te ayude en tus futuros proyectos**
